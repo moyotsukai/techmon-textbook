@@ -20,7 +20,6 @@
 		EB45316B299DF27A00EDDFDC /* yusya.png in Resources */ = {isa = PBXBuildFile; fileRef = EB453157299DF27A00EDDFDC /* yusya.png */; };
 		EB45316C299DF27A00EDDFDC /* monster.png in Resources */ = {isa = PBXBuildFile; fileRef = EB453158299DF27A00EDDFDC /* monster.png */; };
 		EB45316D299DF27A00EDDFDC /* TechMonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB45315A299DF27A00EDDFDC /* TechMonManager.swift */; };
-		EB45316E299DF27A00EDDFDC /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB45315B299DF27A00EDDFDC /* Character.swift */; };
 		EB45316F299DF27A00EDDFDC /* SE_fanfare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB45315D299DF27A00EDDFDC /* SE_fanfare.mp3 */; };
 		EB453170299DF27A00EDDFDC /* BGM_battle001.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB45315E299DF27A00EDDFDC /* BGM_battle001.mp3 */; };
 		EB453171299DF27A00EDDFDC /* SE_fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB45315F299DF27A00EDDFDC /* SE_fire.mp3 */; };
@@ -49,7 +48,6 @@
 		EB453157299DF27A00EDDFDC /* yusya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yusya.png; sourceTree = "<group>"; };
 		EB453158299DF27A00EDDFDC /* monster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster.png; sourceTree = "<group>"; };
 		EB45315A299DF27A00EDDFDC /* TechMonManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TechMonManager.swift; sourceTree = "<group>"; };
-		EB45315B299DF27A00EDDFDC /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		EB45315D299DF27A00EDDFDC /* SE_fanfare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SE_fanfare.mp3; sourceTree = "<group>"; };
 		EB45315E299DF27A00EDDFDC /* BGM_battle001.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BGM_battle001.mp3; sourceTree = "<group>"; };
 		EB45315F299DF27A00EDDFDC /* SE_fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SE_fire.mp3; sourceTree = "<group>"; };
@@ -134,7 +132,6 @@
 			isa = PBXGroup;
 			children = (
 				EB45315A299DF27A00EDDFDC /* TechMonManager.swift */,
-				EB45315B299DF27A00EDDFDC /* Character.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -249,7 +246,6 @@
 			files = (
 				EB45317A299E4DD000EDDFDC /* BattleViewController.swift in Sources */,
 				EB45316D299DF27A00EDDFDC /* TechMonManager.swift in Sources */,
-				EB45316E299DF27A00EDDFDC /* Character.swift in Sources */,
 				EB453178299E4D8300EDDFDC /* LobbyViewController.swift in Sources */,
 				EB45313D299DEB6F00EDDFDC /* AppDelegate.swift in Sources */,
 				EB45313F299DEB6F00EDDFDC /* SceneDelegate.swift in Sources */,
