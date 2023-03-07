@@ -71,7 +71,7 @@ class BattleViewController: UIViewController {
         
         //プレイヤーのステータスを反映
         playerHPLabel.text = "\(playerHP) / 100"
-        playerTPLabel.text = "\(playerTP) / 100"
+        playerTPLabel.text = "\(playerTP) / 80"
         
         //敵のステータスを反映
         enemyHPLabel.text = "\(enemyHP) / 400"
